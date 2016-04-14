@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shivu.myprofile"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/shivu"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <activity
+            android:name=".Splash"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+      
+         <activity
+            android:name="com.shivu.myprofile.Menu"
+android:screenOrientation="portrait"         
+   android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.shivu.myprofile.Menu" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+         <activity
+            android:name="com.shivu.myprofile.AboutMe"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.shivu.myprofile.ABOUT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+          <activity
+            android:name="com.shivu.myprofile.Prefs"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.shivu.myprofile.PREFS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+         
+          
+            
+          <activity
+            android:name="com.shivu.myprofile.Email"
+            android:screenOrientation="portrait"
+            android:label="email" >
+            
+        </activity>
+         
+          
+          
+            <activity
+            android:name=".Tyler"
+            android:label="Tyler Technologies"
+            android:screenOrientation="portrait">
+            
+        </activity>
+          <activity
+            android:name=".VersatransAndroid"
+            android:label="Versatrans Android App"
+            android:screenOrientation="portrait">
+        </activity>
+        
+          <activity
+            android:name=".VersatransIOS"
+            android:label="Versatrans IOS App"
+            android:screenOrientation="portrait">
+        </activity>
+          <activity
+            android:name="com.shivu.myprofile.Ongoing_Projects"
+            android:label="Ongoing Academic Projects" 
+            android:screenOrientation="portrait">
+        </activity>
+          <activity
+            android:name="com.shivu.myprofile.Database_Project"
+            android:label="Zoo Management" 
+            android:screenOrientation="portrait">
+        </activity>
+          <activity
+            android:name="com.shivu.myprofile.Networks_Project"
+            android:label="Networks Project" 
+            android:screenOrientation="portrait">
+        </activity>
+        
+          
+          
+          <activity
+            android:name=".AboutTyler"
+            android:label="About Tyler Technologies"
+            android:screenOrientation="portrait">
+        </activity>
+          <activity
+            android:name=".TylerTech"
+            android:label="Tyler Technologies"
+            android:screenOrientation="portrait">
+        </activity>
+          
+          
+           <activity
+            android:name=".Portfolio"
+            android:label="My Portfolio"
+            android:screenOrientation="portrait">
+            
+        </activity>
+          <activity
+            android:name="com.shivu.myprofile.SUNYBuffalo"
+            android:label="SUNYBuffalo" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+        
+          <activity
+            android:name="com.shivu.myprofile.Objective"
+            android:label="Objective" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+          
+         <activity
+            android:name="com.shivu.myprofile.StatementOfPurpose"
+            android:label="Statement Of Purpose" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+        
+          <activity
+            android:name="com.shivu.myprofile.LORdetails"
+            android:label="Letter Of Recommenders " 
+            android:screenOrientation="portrait">
+            
+        </activity>
+          
+         <activity
+            android:name="com.shivu.myprofile.PublicationsAndPapers"
+            android:screenOrientation="portrait"
+            android:label="Publications and Papers" >
+            <intent-filter>
+                <action android:name="com.shivu.myprofile.PublicationsAndPapers" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+           <activity
+            android:name="com.shivu.myprofile.Education"
+            android:screenOrientation="portrait"
+            android:label="Education" >
+            <intent-filter>
+                <action android:name="com.shivu.myprofile.Education" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+          
+          <activity
+            android:name="com.shivu.myprofile.IJECSCSE"
+            android:label="IJECSCSE" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+        
+          <activity
+            android:name="com.shivu.myprofile.IJER"
+            android:label="IJER " 
+            android:screenOrientation="portrait">
+            
+        </activity>
+      
+          <activity
+            android:name="com.shivu.myprofile.IJSRD"
+            android:label="IJSRD " 
+            android:screenOrientation="portrait">
+            
+        </activity>
+        
+          <activity
+            android:name="com.shivu.myprofile.RATE2013"
+            android:label="RATE 2013" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+        
+            <activity
+            android:name="com.shivu.myprofile.MastersInComputerScience"
+            android:label="Masters in Computer Science" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+          
+            <activity
+            android:name="com.shivu.myprofile.Engineering"
+            android:label="Engineering" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+          <activity
+            android:name="com.shivu.myprofile.ClassX"
+            android:label="Class X" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+          <activity
+            android:name="com.shivu.myprofile.SecondPUC"
+            android:label="Second PUC" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+         <activity
+            android:name="com.shivu.myprofile.ContactDetails"
+            android:label="Contact Details " 
+            android:screenOrientation="portrait">
+            
+        </activity>
+          
+                <activity
+            android:name="com.shivu.myprofile.TechnicalSkills"
+            android:label="Technical Skills " 
+            android:screenOrientation="portrait">
+            
+        </activity>
+          
+               <activity
+            android:name="com.shivu.myprofile.ProfessionalExperience"
+            android:label="Professional Experience" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+              <activity
+            android:name="com.shivu.myprofile.Projects"
+            android:label="Projects" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+        
+                  <activity
+            android:name="com.shivu.myprofile.Project1"
+            android:label="Project 1" 
+            android:screenOrientation="portrait">
+            
+        </activity>
+            <activity
+            android:name="com.shivu.myprofile.Project2"
+            android:label="Project 2 " 
+            android:screenOrientation="portrait">
+            
+        </activity>
+        
+                <activity
+            android:name="com.shivu.myprofile.Project3"
+            android:label="Project 3" 
+            android:screenOrientation="portrait">
+           </activity>
+        <activity
+            android:name="com.shivu.myprofile.Project4"
+            android:label="Project 4"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.shivu.myprofile.Project5"
+            android:label="Project 5"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.shivu.myprofile.Project6"
+            android:label="Project 6"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="com.shivu.myprofile.Achievements"
+            android:label="Achievements" 
+            android:screenOrientation="portrait">
+           </activity> 
+          <activity
+            android:name="com.shivu.myprofile.AndroidWorkShop"
+            android:label="Android Work Shop" 
+            android:screenOrientation="portrait">
+           </activity> 
+               <activity
+            android:name="com.shivu.myprofile.CivilDefenceMember"
+            android:label="Civil Defence Member" 
+            android:screenOrientation="portrait">
+           </activity>
+           
+               
+               
+           <activity
+            android:name="com.shivu.myprofile.CivilDefenceVolunteer"
+            android:label="Civil Defence Volunteer" 
+            android:screenOrientation="portrait">
+           </activity> 
+           <activity
+            android:name="com.shivu.myprofile.Certificates"
+            android:label="certificates" 
+            android:screenOrientation="portrait">
+           </activity> 
+           <activity
+            android:name="com.shivu.myprofile.CognizantAmbassador"
+            android:label="Cognizant Ambassador" 
+            android:screenOrientation="portrait">
+           </activity> 
+           <activity
+            android:name="com.shivu.myprofile.MicrosoftDreamSpark"
+            android:label="Microsoft Dream Spark" 
+            android:screenOrientation="portrait">
+           </activity> 
+           <activity
+            android:name="com.shivu.myprofile.NationalConference"
+            android:label="National Conference" 
+            android:screenOrientation="portrait">
+           </activity> 
+            <activity
+            android:name="com.shivu.myprofile.SpringFestAmbassador"
+            android:label="Spring Fest Ambassador " 
+            android:screenOrientation="portrait">
+           </activity> 
+            <activity
+            android:name="com.shivu.myprofile.TcsTechBytes2010"
+            android:label="Tcs TechBytes 2010" 
+            android:screenOrientation="portrait">
+           </activity> 
+           <activity
+            android:name="com.shivu.myprofile.TcsTechBytes2011"
+            android:label="Tcs TechBytes 2011" 
+            android:screenOrientation="portrait">
+           </activity>
+               <activity
+            android:name="com.shivu.myprofile.UtsahaVolunteer"
+            android:label="Utsaha Volunteer" 
+            android:screenOrientation="portrait">
+           </activity>
+           <activity
+            android:name="com.shivu.myprofile.ScienceTalent2004"
+            android:label="Sciecnce Talent 2004" 
+            android:screenOrientation="portrait">
+           </activity>
+           <activity
+            android:name="com.shivu.myprofile.ScienceTalent2005"
+            android:label="Sciecnce Talent 2005" 
+            android:screenOrientation="portrait">
+           </activity>
+            <activity
+            android:name="com.shivu.myprofile.MyAndroidApps"
+            android:label="My Android Apps" 
+            android:screenOrientation="portrait">
+           </activity>
+            <activity
+            android:name="com.shivu.myprofile.MyWindowsApp"
+            android:label="My windows phone App" 
+            android:screenOrientation="portrait">
+           </activity>
+           
+            
+            <activity
+            android:name="com.shivu.myprofile.ResponsibilitiesUndertaken"
+            android:label="Responsibilities Undertaken" 
+            android:screenOrientation="portrait">
+           </activity>
+            
+            
+           
+           
+           
+           
+            
+               
+    </application>
+
+</manifest>

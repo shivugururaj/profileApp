@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+    <TextView
+        android:id="@+id/secondpuc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="Kalpataru Science College, Tiptur, India
+			\n \n2nd PUC \nPhysics, Chemistry, Mathematics, Biology, English \n \nPercentage: 87.5% 
+			
+\n \nJune ’08 - May ’09
+
+        "/>
+    </ScrollView>
+</LinearLayout>
+
+

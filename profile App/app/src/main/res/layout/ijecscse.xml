@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+    <TextView
+        android:id="@+id/ijecscse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="“Intrusion Detection Technique in Standard Network” published in International Journal of Electronics, Communication and Soft Computing Science and Engineering (IJECSCSE) Volume 2, Issue 3, ISSN: 2277-9477" />
+    </ScrollView>
+</LinearLayout>

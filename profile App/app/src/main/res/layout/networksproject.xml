@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+    <TextView
+        android:id="@+id/networksproject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="Application to synchronize information between laptop/computer, smartphone and a cloud.
+        \n \n Two way communication between the devices as follows:
+\n \n client device is the device that initiates update.
+\n \n Server device is going to accept the update.
+\n \n 1.laptop initiates TCP or UDP comunication with cloud.
+\n \n Send a file to the cloud.
+\n \n The cloud receives it and updates.
+\n \n 2. Smartphone initiates TCP or UDP communication with the cloud.
+\n \n a. Send a file to the cloud and laptop
+\n \n The cloud and alptop rceives it and updates it.
+\n \n b. queries for latest copy of file
+\n \n Smartphone receives it.
+\n \n 3. Cloud initiates TCP or UDP communication with the laptop.
+\n \n Send a file to the laptop and cloud.
+\n \n Laptop and cloud receives and updates the info.
+        "/>
+    </ScrollView>
+</LinearLayout>

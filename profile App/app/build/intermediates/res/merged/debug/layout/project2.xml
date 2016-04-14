@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+    <TextView
+        android:id="@+id/project2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="GenzeMobile- Automobile Android App
+\n \n •	Developed features for voice control, real time accident detection, navigation assist, auto reply to calls while driving
+\n \n • Find my Genze: Developed feature to find the vehicle previously parked.
+        
+        "/>
+    </ScrollView>
+</LinearLayout>

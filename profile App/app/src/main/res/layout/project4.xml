@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+    <TextView
+        android:id="@+id/project4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="Online Product Rating System – Web App
+\n \n •	High availability through 2 database node instances and high performance using distributed cache
+\n \n •	Client-server communication encryption using TLS/SSL and request/response compression using gzip
+\n \n •	Authentication/authorization, session management and asynchronous services using AJAX
+        "/>
+    </ScrollView>
+</LinearLayout>

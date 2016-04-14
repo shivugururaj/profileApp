@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+    <TextView
+        android:id="@+id/suny"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="UB is a premier, research-intensive public university dedicated to academic excellence. UB Thinking, research, creative activity and people positively impact the world. \n \n COMPUTER SCIENCE:The mission of the Department of Computer Science and Engineering, State University of New York at Buffalo is to:
+
+1. Perform world-class research in selected areas of computing 2.Provide quality, cutting-edge educational experiences to computing majors at the Bachelor's, Master's, and Ph.D. levels. 3.Provide state-of-the-art education and training in the use of computers to UB students regardless of their major 4.Assist other UB departments in developing faculty computing expertise appropriate to their programs 5.Be a source of computing expertise to UB, Western New York, and New York State." />
+</ScrollView>
+</LinearLayout>

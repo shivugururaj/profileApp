@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+    <TextView
+        android:id="@+id/project1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="Mitter-Bitter Employee Mobile Monitoring System using Android Smartphone’s 
+	\n \n •	Developed an android application that allows supervisors to monitor the misuse of their employee's office cell phones
+    \n \n •	Developed features for tracking employee location, phone calls, boundary alerts, reporting to supervisor’s phone and server
+
+        "/>
+    </ScrollView>
+
+</LinearLayout>

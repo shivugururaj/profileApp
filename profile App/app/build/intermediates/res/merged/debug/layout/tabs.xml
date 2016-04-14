@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TabHost
+        android:id="@+id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <LinearLayout
+                    android:id="@+id/tab1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                   
+
+                    <TextView
+                        android:id="@+id/tvShowResults"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Dr Rajshekhar M. Patil, 
+Associate Professor	
+\n \n
+Educational Qualification: Ph. D - CSE - Dr MGR University , 
+
+Chennai
+\n \n Teaching Experience: 17 years
+\n \n Research and development: 03 years \n \n Research: 05 years
+\n \n Area of Interest :Network security, Data Communication 
+
+and Data Mining
+
+\n \n Email ID: pvsmr1@gmail.com	 
+\n \n LIST OF PUBLICATIONS :
+\n PAPERS PUBLISHED IN INTERNATIONAL AND NATIONAL 
+
+JOURNALS: (5)
+\n 
+INTERNATIONAL CONFERENCES: (5)
+\n NATIONAL CONFERENCES: (11)
+\n ACHIEVEMENTS: 100% Result, University level sports
+ 
+
+\n \n 
+EXPERT LECTURES DELIVERED:
+INTRUSION DETECTION SYSTEM, SMVIT Bangalore - 64
+ 
+\n \n 
+INDUSTRY INSTITUTE INTERACTION: 
+IBM Academic Initiative Programme
+ 
+\n \n 
+PROJECTS: Principal Investigator , Applied/ NRB, DETECTION OF OBJECTS  IN SUBMARINES USING SENSOR NETWORKS" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+                    <ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+                     <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="TextView2" />
+                     </ScrollView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+                        <Button
+                        android:id="@+id/bAddTab"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="add a tab" />
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+</LinearLayout>

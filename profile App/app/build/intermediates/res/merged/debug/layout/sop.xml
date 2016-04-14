@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+   
+      <TextView
+        android:id="@+id/sopText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="26dp"
+        android:text="
+Computers have always been the fascinating factor for me. Interaction with my elder sister about computers raised a curiosity to know more, leading me to question her about the same. When parents bought a desktop computer for me, my inquisitiveness completely shifted towards it. My sister introduced me to the basics of the subject and steadily I realized my passion to study it in depth and make a career out of it. During my years growing up, I understood that nothing better than an undergraduate degree in Computer Science would address my passion to innovate and learn in the process. Hence, I decided to pursue Bachelor of Engineering in Computer Science.
+
+\n \nFirst year of my undergraduate studies introduced me the concepts of C programming. In the consequent years subjects like UNIX and Shell Programming, Data Structures with C, Computer Networks, Database Management System and Operations Research made the learning process more interesting. Subjects of Operating System, Java, c# programming and .NET left me spellbound and enthralled .This solidified my interest in Computer Science and exposed me to the enormous potential of this developing field. The field that I have recently developed an interest in, which was not a part of our curriculum, is about mobile platforms like android and Windows.
+
+\n \nRealizing the fact that the demand for everything going mobile is obvious and the opportunity in this space is unrestrained, I was inclined towards practical implementation of the related concepts. I attended a workshop on Android App Development conducted by LI2 innovations. My most accomplished achievements have been my work on Applications published on Samsung App store and Microsoft Windows Phone App store. Some of them are Bangalore Infirmary- a health concerned windows phone application. OFSSfeeds, MSinfo, quizzing, healthy are educational android applications and fifaUpdates - an android app for football enthusiasts.
+
+\n \nMy learning experience was enriched when I took the initiative to author and present technical papers. My first paper was on “3D CAPTCHA - A new approach to security” presented at the 2nd National Conference on “Recent Advances in Technology and Engineering”. My paper on “Intrusion Detection Technique in standard network” is published in the International Journal of Electronics, Communication and Soft Computing Science and Engineering (IJECSCSE). Research methodologies were best explored by me when I worked on “Harassment Monitoring System Using Android Smart Phone” published in the International Journal of Engineering Research (IJER) and “Garbage Management Using Android Smartphone” published in International Journal for Scientific Research and Development (IJSRD).
+
+\n \nDuring the final year of my engineering course, I took up a project on “Mitter-Bitter Employee Mobile Monitoring System using Android Smartphone’s”. This project is essentially a software application that allows Managers to monitor their Employee's office cell phones. It’s a successful execution of Java, XML, GPS, 3G internet, SOAP protocol and Cloud Services. I have also worked on a project “Graphical Implementation of Fountain Effect Using OpenGL” during my pre final year of undergraduate studies.
+
+\n \nMy all-round abilities helped me procure a job as Associate Consultant in Oracle Financial Services Software Limited, world renowned IT service provider for banking industry. Advanced training in the domains of Java, springs, SQL, HTML and CSS helped me complete a project on online banking application for a fictitious bank called INB (Indian Net Bank) and now I work for UBS Client as Java developer for project “Tracs System”.
+
+\n \nWith the advanced facilities and qualified faculty at SUNY Buffalo, I am confident that I will be exposed to the best concepts and industry insights. Coupled with genuine interest and an insatiable desire for computer software development and programming, I am willing to dedicate myself to the graduate program. Studying under eminent faculties like Professor Atri Rudra, Professor Karthik Dantu and Professor Murat Demirbas will certainly be a privilege for me. I have a definitive understanding about the courses offered and ongoing research which matches my area of interest. Moreover projects like “PhoneLab: A Large-Scale Participatory Smartphone Testbed” and “Crowdsourced sensing and collaboration using Twitter” are truly inspiring. I wish to make the best use of the facilities provided by your university and reach greater heights in my career.
+
+\n \nBesides my academic career, I was actively involved in extracurricular activities. I was selected to be Cognizant Brand Ambassador. I was selected among the country’s top engineering institutions and was invited to experience Cognizant. I had the opportunity to interact with the leaders such as Mr. Lakshmi Narayanan, Vice Chairman at Cognizant. I was also the Campus Ambassador for Spring Fest, IIT-Kharagpur. I was awarded the Bangalore Region Winner in blogging and article writing at the event “Xperience cognizant”. For two consecutive years I represented my Institute at regional level for TCS “Tech-Bytes”, IT quiz. Since 2012, I am serving as “Sector Warden” under CDD#13 for Civil Defence, Government of Karnataka, India. I have also had many other achievements which have shaped me to be the individual I am today.
+ 
+\n \nTo sum up, my immediate goal is to escalade the ladder of knowledge by pursuing my Masters and later my Doctoral studies. Through the coursework and research, I want to build a strong foundation in Computer Science that will empower me to innovate.
+\n \nMy long-term goals are to be associated with research in cutting edge technology either at the academic or industry level and set an example with my expertise and ethics.
+        
+
+        "/>
+       
+        </ScrollView>
+</LinearLayout>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+    <TextView
+        android:id="@+id/aboutTyler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="Tyler Technologies
+        \n \n From financial management and property taxes to courts and education, we create, deliver and support software solutions and services that make it easier for local governments and schools to manage their complex, day-to-day business functions. We have a unique vantage point due to our singular focus on serving the public sector with a broad product portfolio.
+        \n \n From the courtroom to the classroom, Tyler’s products serve as the backbone for core business functions in the public sector. We are dedicated to helping our local government and school clients streamline the many aspects of their financial management, court case, property tax, public safety, citizen services, public records and education systems.
+        \n \n However, our commitment goes well beyond delivering solutions that work for our public sector clients. It’s about consistently delivering value for employees and shareholders as well.
+        \n \n Our deep industry knowledge comes from our staff — many of whom held public sector positions prior to joining Tyler. They understand what clients want and need to operate more efficiently because they’ve been there. They transfer their subject matter expertise to new employees who in turn become experts themselves, eventually passing it along to others.
+        \n \n With this knowledge and experience — along with focused innovation and an earnest commitment to our clients — we are positioned better than anyone to anticipate and address the changing technology needs of the public sector.
+        \n
+
+
+        "/>
+    </ScrollView>
+</LinearLayout>

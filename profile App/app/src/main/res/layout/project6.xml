@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+    <TextView
+        android:id="@+id/project6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="Business Configuration Manager
+\n \n •	Designed and developed a web service using Spring boot to maintain business configurations in yaml files. This application can add/delete/update/retrieve configurations. This results in zero development efforts on future requirement change.
+"/>
+    </ScrollView>
+</LinearLayout>

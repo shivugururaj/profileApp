@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+    <TextView
+        android:id="@+id/asuText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="Arizona State University is a national space-grant institution and public metropolitan research university located in the Phoenix Metropolitan Area of the U.S. state of Arizona. It is the largest public university in the United States by enrollment.
+        \n \n COMPUTER SCIENCE: \n In ASU, programs in Computer Science support the evolution of the computing and informatics disciplines, and the integration of computer and information sciences with other disciplines such as biology, geography, anthropology, public health, urban planning and mathematics. Ethics and professionalism are as important as technical skill while considering both the local and global impact of many Computer Science industry decisions." />
+</ScrollView>
+</LinearLayout>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TabHost
+        android:id="@+id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </TabWidget>
+<ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                
+                <LinearLayout
+                    android:id="@+id/tab1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                   
+
+                    <TextView
+                        android:id="@+id/patil"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="25dp"
+                        android:text="Dr Rajshekhar M. Patil, 
+Associate Professor	
+\n \nEducational Qualification: Ph. D - CSE - Dr MGR University , 
+
+Chennai
+\n \nTeaching Experience: 17 years
+\n \nResearch and development: 03 years \n \n Research: 05 years
+\n \nArea of Interest :Network security, Data Communication 
+
+and Data Mining
+
+\n \nEmail ID: pvsmr1@gmail.com	 
+\n \nLIST OF PUBLICATIONS :
+\nPAPERS PUBLISHED IN INTERNATIONAL AND NATIONAL 
+
+JOURNALS: (5)
+\nINTERNATIONAL CONFERENCES: (5)
+\nNATIONAL CONFERENCES: (11)
+\nACHIEVEMENTS: 100% Result, University level sports
+ 
+
+\n \nEXPERT LECTURES DELIVERED:
+\nINTRUSION DETECTION SYSTEM, SMVIT Bangalore - 64
+ 
+\n \nINDUSTRY INSTITUTE INTERACTION: 
+IBM Academic Initiative Programme
+ 
+\n \nPROJECTS: Principal Investigator , Applied/ NRB, DETECTION OF OBJECTS  IN SUBMARINES USING SENSOR NETWORKS" />" 
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+                    <ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+                     <TextView
+                        android:id="@+id/pushpa"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                         android:textSize="25dp"
+                        android:text="Mrs. Pushpa S.K 
+\nAssociate Professor	
+\n \nEducational Qualification: 	ME - ( Computer Science)
+\n \nTeaching Experience: 15 years
+\n \nArea of Interest:	System Software, Analysis and Design of Algorithms, Distributed Computing, Wireless Sensor Networks.
+\n \nEmail ID:	skpushpamurtheppa@yahoo.com	 
+\n \nLIST OF PUBLICATIONS:
+\nPAPERS PUBLISHED IN INTERNATIONAL CONFERENCE:
+\nK-Coverage Techniques in Wireless Sensor networks: A Survey, International Conference on Computer Science and Information Technology ICCSIT’10, dated on SEP 17-18 2010.
+\nK-Coverage using variable sensing radius for increased network lifetime, International Conference on Data Engineering and Communication Systems, ICDECS-2011, dated on DEC 29-30 2011.
+\nSMS CLOUD: A Multi-Platform Messenger Application, International Conference on Current Trends in Engineering and Management, ICCTEM-2012, dated July 12-14, 2012.
+ 
+\n \nACHIEVEMENTS:
+\nFACULTY DEVELOPMENT PROGRAM CONDUCTED:
+\nOne day workshop on “Git” at Center for Women Empowerment, BMSIT, - by Mr. Kaustav Das Modak Web Developer Partner and Lead Developer at Code Binders Web Development Services LLP, Kolkata.
+\nOne day Faculty Development Program on NS-2 Network Simulator at BMSIT, by Dr. Mohit P Tahiliani, Asst. Prof, Dept. Of CSE, NITK Suratkal, dated 07th Sep 2013.
+ 
+
+\n \nMEMBERSHIP
+\nLife member of I.S.T.E. (Indian Society for Technical Education), New Delhi.
+\nLife Member of Kannada Sahithya Parishath, Karnataka.
+\nMember of Indian Science Congress, Kolkatha." />
+                </ScrollView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+                    
+                      <ScrollView android:layout_height="fill_parent"
+android:layout_width="fill_parent">
+                    <TextView
+                        android:id="@+id/bharati"
+                        android:layout_width="wrap_content"
+						 android:textSize="25dp"
+                        android:layout_height="wrap_content"
+                        android:text="Mrs. Bharathi R. 
+\n Associate Professor
+\n Dept of Computer Science	
+\n \n Educational Qualification : M. Tech., (Ph. D)
+\n \n Email ID: bharavi_kumar@yahoo.co.in" />
+               
+                    </ScrollView>
+                    </LinearLayout>
+                
+             
+            </FrameLayout>
+            </ScrollView>
+        </LinearLayout>
+    </TabHost>
+
+</LinearLayout>
