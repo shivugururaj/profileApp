@@ -64,7 +64,7 @@
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.shivu.myprofile.Tyler"
+            android:name="com.shivu.myprofile.Intel"
             android:label="Tyler Technologies"
             android:screenOrientation="portrait" >
         </activity>
@@ -74,7 +74,7 @@
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.shivu.myprofile.VersatransIOS"
+            android:name="com.shivu.myprofile.OpenStack_Summits"
             android:label="Versatrans IOS App"
             android:screenOrientation="portrait" >
         </activity>
@@ -94,12 +94,12 @@
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.shivu.myprofile.AboutTyler"
+            android:name="com.shivu.myprofile.IntelCloudForAll"
             android:label="About Tyler Technologies"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.shivu.myprofile.TylerTech"
+            android:name="com.shivu.myprofile.IntelOpenStack"
             android:label="Tyler Technologies"
             android:screenOrientation="portrait" >
         </activity>

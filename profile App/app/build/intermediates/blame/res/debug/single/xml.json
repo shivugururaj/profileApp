@@ -2,5 +2,9 @@
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/xml/prefs.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/Users/shivugururaj/Documents/profileApp/profile app/app/build/intermediates/res/merged/debug/xml/prefs.xml",
+        "source": "/Users/shivugururaj/Documents/profileApp/profile app/app/src/main/res/xml/prefs.xml"
     }
 ]

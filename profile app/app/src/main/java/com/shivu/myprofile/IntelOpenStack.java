@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.webkit.WebView;
 
-public class Intel_and_OpenStack extends Activity {
+public class IntelOpenStack extends Activity {
 
 
 	WebView ourBrow;

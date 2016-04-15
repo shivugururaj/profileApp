@@ -8,6 +8,6 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=" Shivu Gururaj \n Graduate Student at UT Dallas \n MS in CS" />
+        android:text=" Shivu Gururaj \n Graduate Student at UT Dallas \n MS in CS \n website: https://shivugururaj.github.io" />
 
 </LinearLayout>

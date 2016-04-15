@@ -2,5 +2,9 @@
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/menu/cool_menu.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/menu/cool_menu.xml"
+    },
+    {
+        "merged": "/Users/shivugururaj/Documents/profileApp/profile app/app/build/intermediates/res/merged/debug/menu/cool_menu.xml",
+        "source": "/Users/shivugururaj/Documents/profileApp/profile app/app/src/main/res/menu/cool_menu.xml"
     }
 ]

@@ -4,12 +4,12 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class Intel_CloudForAll extends Activity {
+public class IntelCloudForAll extends Activity {
 	TextView display;
 	
 	 protected void onCreate(Bundle savedInstanceState) {
 	        super.onCreate(savedInstanceState);
-	        setContentView(R.layout.intelCloud);
+	        setContentView(R.layout.intelcloud);
 	        display=(TextView)findViewById(R.id.intelCloud);
 	 }
 }

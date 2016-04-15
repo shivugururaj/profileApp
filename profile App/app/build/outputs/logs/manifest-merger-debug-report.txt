@@ -1,533 +1,533 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:2:1-394:12
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:2:1-394:12
 	package
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:3:5-34
-		INJECTED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:7:5-9:41
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:8:9-34
-		INJECTED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.SET_WALLPAPER
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:10:5-71
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:10:5-71
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:10:22-69
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:10:22-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:11:5-66
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:11:5-66
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:11:22-64
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:11:22-64
 application
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:13:5-392:19
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:13:5-392:19
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:16:9-41
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:16:9-41
 	android:allowBackup
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:15:9-39
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:15:9-39
 	android:theme
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:17:9-40
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:17:9-40
 activity#com.shivu.myprofile.Splash
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:19:9-28:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:19:9-28:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:21:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:21:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:22:13-45
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:22:13-45
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:20:13-35
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:20:13-35
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:23:13-27:29
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:24:17-69
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:24:25-66
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:26:17-77
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:26:27-74
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:26:27-74
 activity#com.shivu.myprofile.Menu
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:31:10-40:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:31:10-40:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:33:1-37
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:33:1-37
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:34:4-36
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:34:4-36
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:32:13-52
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:32:13-52
 intent-filter#android.intent.category.DEFAULT+com.shivu.myprofile.Menu
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:35:13-39:29
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:35:13-39:29
 action#com.shivu.myprofile.Menu
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:36:17-67
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:36:17-67
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:36:25-64
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:36:25-64
 category#android.intent.category.DEFAULT
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:38:17-76
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:38:17-76
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:38:27-73
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:38:27-73
 activity#com.shivu.myprofile.AboutMe
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:42:10-52:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:42:10-52:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:45:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:45:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:44:13-45
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:44:13-45
 	android:theme
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:46:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:46:13-56
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:43:13-55
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:43:13-55
 intent-filter#android.intent.category.DEFAULT+com.shivu.myprofile.ABOUT
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:47:13-51:29
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:47:13-51:29
 action#com.shivu.myprofile.ABOUT
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:48:17-68
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:48:17-68
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:48:25-65
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:48:25-65
 activity#com.shivu.myprofile.Prefs
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:54:11-64:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:54:11-64:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:57:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:57:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:56:13-45
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:56:13-45
 	android:theme
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:58:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:58:13-56
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:55:13-53
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:55:13-53
 intent-filter#android.intent.category.DEFAULT+com.shivu.myprofile.PREFS
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:59:13-63:29
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:59:13-63:29
 action#com.shivu.myprofile.PREFS
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:60:17-68
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:60:17-68
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:60:25-65
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:60:25-65
 activity#com.shivu.myprofile.Email
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:69:11-74:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:69:11-74:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:71:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:71:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:72:13-34
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:72:13-34
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:70:13-53
-activity#com.shivu.myprofile.Tyler
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:78:13-83:20
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:70:13-53
+activity#com.shivu.myprofile.Intel
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:78:13-83:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:81:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:81:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:80:13-47
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:80:13-47
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:79:13-34
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:79:13-34
 activity#com.shivu.myprofile.VersatransAndroid
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:84:11-88:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:84:11-88:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:87:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:87:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:86:13-51
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:86:13-51
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:85:13-46
-activity#com.shivu.myprofile.VersatransIOS
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:90:11-94:20
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:85:13-46
+activity#com.shivu.myprofile.OpenStack_Summits
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:90:11-94:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:93:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:93:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:92:13-47
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:92:13-47
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:91:13-42
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:91:13-46
 activity#com.shivu.myprofile.Ongoing_Projects
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:95:11-99:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:95:11-99:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:98:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:98:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:97:13-54
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:97:13-54
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:96:13-64
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:96:13-64
 activity#com.shivu.myprofile.Database_Project
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:100:11-104:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:100:11-104:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:103:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:103:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:102:13-43
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:102:13-43
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:101:13-64
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:101:13-64
 activity#com.shivu.myprofile.Networks_Project
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:105:11-109:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:105:11-109:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:108:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:108:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:107:13-45
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:107:13-45
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:106:13-64
-activity#com.shivu.myprofile.AboutTyler
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:113:11-117:20
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:106:13-64
+activity#com.shivu.myprofile.IntelCloudForAll
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:113:11-117:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:116:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:116:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:115:13-53
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:115:13-53
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:114:13-39
-activity#com.shivu.myprofile.TylerTech
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:118:11-122:20
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:114:13-45
+activity#com.shivu.myprofile.IntelOpenStack
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:118:11-122:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:121:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:121:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:120:13-47
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:120:13-47
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:119:13-38
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:119:13-43
 activity#com.shivu.myprofile.Portfolio
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:125:12-130:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:125:12-130:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:128:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:128:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:127:13-41
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:127:13-41
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:126:13-38
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:126:13-38
 activity#com.shivu.myprofile.SUNYBuffalo
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:131:11-136:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:131:11-136:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:134:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:134:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:133:13-40
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:133:13-40
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:132:13-59
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:132:13-59
 activity#com.shivu.myprofile.Objective
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:138:11-143:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:138:11-143:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:141:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:141:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:140:13-38
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:140:13-38
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:139:13-57
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:139:13-57
 activity#com.shivu.myprofile.StatementOfPurpose
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:145:10-150:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:145:10-150:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:148:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:148:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:147:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:147:13-49
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:146:13-66
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:146:13-66
 activity#com.shivu.myprofile.LORdetails
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:152:11-157:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:152:11-157:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:155:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:155:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:154:13-52
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:154:13-52
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:153:13-58
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:153:13-58
 activity#com.shivu.myprofile.PublicationsAndPapers
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:159:10-167:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:159:10-167:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:161:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:161:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:162:13-52
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:162:13-52
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:160:13-69
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:160:13-69
 intent-filter#android.intent.category.DEFAULT+com.shivu.myprofile.PublicationsAndPapers
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:163:13-166:29
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:163:13-166:29
 action#com.shivu.myprofile.PublicationsAndPapers
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:164:17-84
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:164:17-84
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:164:25-81
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:164:25-81
 activity#com.shivu.myprofile.Education
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:169:12-178:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:169:12-178:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:171:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:171:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:172:13-38
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:172:13-38
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:170:13-57
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:170:13-57
 intent-filter#android.intent.category.DEFAULT+com.shivu.myprofile.Education
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:173:13-177:29
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:173:13-177:29
 action#com.shivu.myprofile.Education
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:174:17-72
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:174:17-72
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:174:25-69
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:174:25-69
 activity#com.shivu.myprofile.IJECSCSE
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:180:11-185:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:180:11-185:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:183:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:183:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:182:13-37
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:182:13-37
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:181:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:181:13-56
 activity#com.shivu.myprofile.IJER
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:187:11-192:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:187:11-192:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:190:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:190:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:189:13-34
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:189:13-34
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:188:13-52
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:188:13-52
 activity#com.shivu.myprofile.IJSRD
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:194:11-199:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:194:11-199:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:197:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:197:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:196:13-35
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:196:13-35
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:195:13-53
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:195:13-53
 activity#com.shivu.myprofile.RATE2013
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:201:11-206:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:201:11-206:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:204:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:204:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:203:13-38
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:203:13-38
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:202:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:202:13-56
 activity#com.shivu.myprofile.MastersInComputerScience
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:208:13-213:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:208:13-213:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:211:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:211:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:210:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:210:13-56
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:209:13-72
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:209:13-72
 activity#com.shivu.myprofile.Engineering
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:215:13-220:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:215:13-220:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:218:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:218:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:217:13-40
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:217:13-40
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:216:13-59
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:216:13-59
 activity#com.shivu.myprofile.ClassX
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:221:11-226:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:221:11-226:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:224:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:224:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:223:13-36
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:223:13-36
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:222:13-54
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:222:13-54
 activity#com.shivu.myprofile.SecondPUC
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:227:11-232:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:227:11-232:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:230:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:230:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:229:13-39
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:229:13-39
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:228:13-57
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:228:13-57
 activity#com.shivu.myprofile.ContactDetails
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:233:10-238:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:233:10-238:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:236:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:236:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:235:13-45
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:235:13-45
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:234:13-62
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:234:13-62
 activity#com.shivu.myprofile.TechnicalSkills
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:240:17-245:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:240:17-245:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:243:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:243:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:242:13-46
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:242:13-46
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:241:13-63
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:241:13-63
 activity#com.shivu.myprofile.ProfessionalExperience
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:247:16-252:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:247:16-252:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:250:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:250:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:249:13-52
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:249:13-52
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:248:13-70
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:248:13-70
 activity#com.shivu.myprofile.Projects
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:253:15-258:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:253:15-258:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:256:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:256:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:255:13-37
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:255:13-37
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:254:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:254:13-56
 activity#com.shivu.myprofile.Project1
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:260:19-265:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:260:19-265:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:263:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:263:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:262:13-38
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:262:13-38
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:261:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:261:13-56
 activity#com.shivu.myprofile.Project2
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:266:13-271:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:266:13-271:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:269:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:269:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:268:13-39
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:268:13-39
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:267:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:267:13-56
 activity#com.shivu.myprofile.Project3
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:273:17-277:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:273:17-277:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:276:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:276:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:275:13-38
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:275:13-38
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:274:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:274:13-56
 activity#com.shivu.myprofile.Project4
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:278:9-282:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:278:9-282:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:281:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:281:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:280:13-38
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:280:13-38
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:279:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:279:13-56
 activity#com.shivu.myprofile.Project5
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:283:9-287:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:283:9-287:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:286:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:286:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:285:13-38
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:285:13-38
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:284:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:284:13-56
 activity#com.shivu.myprofile.Project6
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:288:9-292:20
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:288:9-292:20
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:291:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:291:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:290:13-38
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:290:13-38
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:289:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:289:13-56
 activity#com.shivu.myprofile.Achievements
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:294:9-298:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:294:9-298:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:297:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:297:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:296:13-41
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:296:13-41
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:295:13-60
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:295:13-60
 activity#com.shivu.myprofile.AndroidWorkShop
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:299:11-303:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:299:11-303:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:302:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:302:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:301:13-46
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:301:13-46
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:300:13-63
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:300:13-63
 activity#com.shivu.myprofile.CivilDefenceMember
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:304:16-308:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:304:16-308:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:307:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:307:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:306:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:306:13-49
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:305:13-66
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:305:13-66
 activity#com.shivu.myprofile.CivilDefenceVolunteer
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:312:12-316:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:312:12-316:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:315:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:315:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:314:13-52
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:314:13-52
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:313:13-69
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:313:13-69
 activity#com.shivu.myprofile.Certificates
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:317:12-321:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:317:12-321:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:320:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:320:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:319:13-41
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:319:13-41
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:318:13-60
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:318:13-60
 activity#com.shivu.myprofile.CognizantAmbassador
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:322:12-326:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:322:12-326:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:325:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:325:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:324:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:324:13-49
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:323:13-67
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:323:13-67
 activity#com.shivu.myprofile.MicrosoftDreamSpark
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:327:12-331:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:327:12-331:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:330:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:330:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:329:13-50
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:329:13-50
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:328:13-67
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:328:13-67
 activity#com.shivu.myprofile.NationalConference
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:332:12-336:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:332:12-336:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:335:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:335:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:334:13-48
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:334:13-48
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:333:13-66
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:333:13-66
 activity#com.shivu.myprofile.SpringFestAmbassador
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:337:13-341:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:337:13-341:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:340:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:340:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:339:13-52
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:339:13-52
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:338:13-68
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:338:13-68
 activity#com.shivu.myprofile.TcsTechBytes2010
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:342:13-346:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:342:13-346:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:345:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:345:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:344:13-47
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:344:13-47
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:343:13-64
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:343:13-64
 activity#com.shivu.myprofile.TcsTechBytes2011
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:347:12-351:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:347:12-351:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:350:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:350:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:349:13-47
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:349:13-47
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:348:13-64
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:348:13-64
 activity#com.shivu.myprofile.UtsahaVolunteer
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:352:16-356:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:352:16-356:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:355:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:355:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:354:13-45
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:354:13-45
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:353:13-63
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:353:13-63
 activity#com.shivu.myprofile.ScienceTalent2004
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:357:12-361:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:357:12-361:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:360:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:360:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:359:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:359:13-49
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:358:13-65
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:358:13-65
 activity#com.shivu.myprofile.ScienceTalent2005
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:362:12-366:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:362:12-366:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:365:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:365:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:364:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:364:13-49
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:363:13-65
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:363:13-65
 activity#com.shivu.myprofile.MyAndroidApps
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:367:13-371:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:367:13-371:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:370:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:370:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:369:13-44
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:369:13-44
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:368:13-61
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:368:13-61
 activity#com.shivu.myprofile.MyWindowsApp
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:372:13-376:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:372:13-376:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:375:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:375:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:374:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:374:13-49
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:373:13-60
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:373:13-60
 activity#com.shivu.myprofile.ResponsibilitiesUndertaken
-ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:379:13-383:23
+ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:379:13-383:23
 	android:screenOrientation
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:382:13-49
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:382:13-49
 	android:label
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:381:13-56
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:381:13-56
 	android:name
-		ADDED from /Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/AndroidManifest.xml:380:13-74
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:380:13-74

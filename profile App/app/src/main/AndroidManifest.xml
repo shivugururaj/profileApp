@@ -111,12 +111,12 @@ android:screenOrientation="portrait"
           
           
           <activity
-            android:name=".Intel_CloudForAll"
+            android:name=".IntelCloudForAll"
             android:label="About Tyler Technologies"
             android:screenOrientation="portrait">
         </activity>
           <activity
-            android:name=".Intel_and_OpenStack"
+            android:name=".IntelOpenStack"
             android:label="Tyler Technologies"
             android:screenOrientation="portrait">
         </activity>

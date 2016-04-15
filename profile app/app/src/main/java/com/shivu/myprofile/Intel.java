@@ -10,7 +10,7 @@ import android.widget.ListView;
 public class Intel extends ListActivity {
 
 
-String classes[]={"Intel_and_OpenStack","OpenStack_Wiki","OpenStack_Summits"};
+String classes[]={"IntelOpenStack","OpenStackWiki","OpenStackSummits"};
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
