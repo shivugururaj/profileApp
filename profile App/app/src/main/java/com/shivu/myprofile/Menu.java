@@ -13,7 +13,7 @@ import android.widget.ListView;
 
 public class Menu extends ListActivity {
 
-	String classes[]={"Tyler","Objective","Education",
+	String classes[]={"Intel","Objective","Education",
 			"PublicationsAndPapers","TechnicalSkills","Projects","ProfessionalExperience",
 			"Achievements","ResponsibilitiesUndertaken",
 			"Certificates","MyWindowsApp","Email","Portfolio",

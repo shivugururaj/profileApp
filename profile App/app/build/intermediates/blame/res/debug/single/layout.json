@@ -1,43 +1,47 @@
 [
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/email.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/email.xml"
-    },
-    {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/cdv.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/cdv.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/copartandroidapp.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/copartandroidapp.xml"
+    },
+    {
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/lors.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/lors.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/objective.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/objective.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/about.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/about.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/utsaha.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/utsaha.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/aboutcopart.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/aboutcopart.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/abouttyler.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/abouttyler.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/tcs2010.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/tcs2010.xml"
     },
     {
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/aboutcopart.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/aboutcopart.xml"
+    },
+    {
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/utsaha.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/utsaha.xml"
+    },
+    {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/secondpuc.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/secondpuc.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/professional.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/professional.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/androidws.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/androidws.xml"
+    },
+    {
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/engineering.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/engineering.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/ms.xml",
@@ -52,10 +56,6 @@
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/project4.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/objective.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/objective.xml"
-    },
-    {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/springfest.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/springfest.xml"
     },
@@ -64,48 +64,20 @@
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/asu.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/aboutme.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/aboutme.xml"
-    },
-    {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/ijecscse.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/ijecscse.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/ijecscse.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/ijecscse.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/photo.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/photo.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/sciencetalent2004.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/sciencetalent2004.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/project4.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/project4.xml"
-    },
-    {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/tabs.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/tabs.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/secondpuc.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/secondpuc.xml"
-    },
-    {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/about.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/about.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/ijsrd.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/ijsrd.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/engineering.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/engineering.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/ijer.xml",
@@ -120,28 +92,32 @@
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/windowsapp.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/copartwebsite.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/copartwebsite.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/mds.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/mds.xml"
-    },
-    {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/rate2013.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/rate2013.xml"
+    },
+    {
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/androidapps.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/androidapps.xml"
+    },
+    {
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/copartiosapp.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/copartiosapp.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/project2.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/project2.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/project6.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/project6.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/cdm.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/cdm.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/project5.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/project5.xml"
+    },
+    {
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/classx.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/classx.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/copartwebsite.xml",
@@ -152,20 +128,24 @@
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/contact.xml"
     },
     {
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/project1.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/project1.xml"
+    },
+    {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/education.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/education.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/cogni.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/cogni.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/sciencetalent2004.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/sciencetalent2004.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/cdv.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/cdv.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/copartandroidapp.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/copartandroidapp.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/suny.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/suny.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/techskills.xml",
@@ -180,24 +160,12 @@
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/simplebrowser.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/contact.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/contact.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/splash.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/splash.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/ijer.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/ijer.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/professional.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/professional.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/tcs2011.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/tcs2011.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/flipper.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/flipper.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/dbproject.xml",
@@ -208,20 +176,20 @@
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/project6.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/rate2013.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/rate2013.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/nationalconf.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/nationalconf.xml"
+    },
+    {
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/email.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/email.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/flipper.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/flipper.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/tabs.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/tabs.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/cogni.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/cogni.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/project3.xml",
@@ -232,188 +200,8 @@
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/networksproject.xml"
     },
     {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/tcs2011.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/tcs2011.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/ms.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/ms.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/sciencetalent2005.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/sciencetalent2005.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/nationalconf.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/nationalconf.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/utsaha.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/utsaha.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/sop.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/sop.xml"
-    },
-    {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/aboutme.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/aboutme.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/project5.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/project5.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/project2.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/project2.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/abouttyler.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/abouttyler.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/copartandroidapp.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/copartandroidapp.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/lors.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/lors.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/abouttyler.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/abouttyler.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/techskills.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/techskills.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/classx.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/classx.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/androidws.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/androidws.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/engineering.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/engineering.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/tcs2010.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/tcs2010.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/simplebrowser.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/simplebrowser.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/lors.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/lors.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/networksproject.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/networksproject.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/windowsapp.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/windowsapp.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/copartiosapp.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/copartiosapp.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/project1.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/project1.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/androidapps.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/androidapps.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/androidapps.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/androidapps.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/copartiosapp.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/copartiosapp.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/asu.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/asu.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/cdm.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/cdm.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/springfest.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/springfest.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/classx.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/classx.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/text.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/text.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/dbproject.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/dbproject.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/education.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/education.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/suny.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/suny.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/project1.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/project1.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/cdm.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/cdm.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/sciencetalent2004.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/sciencetalent2004.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/responsibility.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/responsibility.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/project3.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/project3.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/suny.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/suny.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/androidws.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/androidws.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/professional.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/professional.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/email.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/email.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/nationalconf.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/nationalconf.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/cogni.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/cogni.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/text.xml",
@@ -430,9 +218,5 @@
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/responsibility.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/responsibility.xml"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/layout/photo.xml",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/layout/photo.xml"
     }
 ]

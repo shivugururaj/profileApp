@@ -7,9 +7,10 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-public class Tyler extends ListActivity {
-//	String classes[]={"VersatransAndroid","VersatransIOS","TylerTech","AboutTyler"};
-String classes[]={"TylerTech","AboutTyler","VersatransAndroid","VersatransIOS"};
+public class Intel extends ListActivity {
+
+
+String classes[]={"Intel_and_OpenStack","OpenStack_Wiki","OpenStack_Summits"};
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
@@ -21,7 +22,7 @@ String classes[]={"TylerTech","AboutTyler","VersatransAndroid","VersatransIOS"};
 		*/
 		//----
 		
-	setListAdapter(new ArrayAdapter<String>(Tyler.this, android.R.layout.simple_list_item_1 , classes));
+	setListAdapter(new ArrayAdapter<String>(Intel.this, android.R.layout.simple_list_item_1 , classes));
 	
 	}
 
@@ -34,7 +35,7 @@ String classes[]={"TylerTech","AboutTyler","VersatransAndroid","VersatransIOS"};
 		String posClicked= classes[position];
 		try{
 		Class ourClass= Class.forName("com.shivu.myprofile."+ posClicked);
-		Intent ourIntent = new Intent(Tyler.this,ourClass);
+		Intent ourIntent = new Intent(Intel.this,ourClass);
 		startActivity(ourIntent);
 		}
 		catch(ClassNotFoundException e)

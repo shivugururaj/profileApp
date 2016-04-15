@@ -6,13 +6,5 @@
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/shivugururaj/Documents/profileApp/profile App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/launcher.png",
-        "source": "/Users/shivugururaj/Documents/profileApp/profile App/app/src/main/res/drawable-xxhdpi/launcher.png"
     }
 ]

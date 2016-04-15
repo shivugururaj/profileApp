@@ -76,7 +76,7 @@ android:screenOrientation="portrait"
           
           
             <activity
-            android:name=".Tyler"
+            android:name=".Intel"
             android:label="Tyler Technologies"
             android:screenOrientation="portrait">
             
@@ -88,7 +88,7 @@ android:screenOrientation="portrait"
         </activity>
         
           <activity
-            android:name=".VersatransIOS"
+            android:name=".OpenStack_Summits"
             android:label="Versatrans IOS App"
             android:screenOrientation="portrait">
         </activity>
@@ -111,12 +111,12 @@ android:screenOrientation="portrait"
           
           
           <activity
-            android:name=".AboutTyler"
+            android:name=".Intel_CloudForAll"
             android:label="About Tyler Technologies"
             android:screenOrientation="portrait">
         </activity>
           <activity
-            android:name=".TylerTech"
+            android:name=".Intel_and_OpenStack"
             android:label="Tyler Technologies"
             android:screenOrientation="portrait">
         </activity>

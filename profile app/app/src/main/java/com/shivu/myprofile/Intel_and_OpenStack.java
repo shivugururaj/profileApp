@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.webkit.WebView;
 
-public class TylerTech extends Activity {
+public class Intel_and_OpenStack extends Activity {
 
 
 	WebView ourBrow;
@@ -24,7 +24,7 @@ public class TylerTech extends Activity {
 		ourBrow.getSettings().setUseWideViewPort(true);
 		ourBrow.setWebViewClient(new ourViewClient());
 		try {
-			ourBrow.loadUrl("https://www.tylertech.com/");
+			ourBrow.loadUrl("https://software.intel.com/en-us/articles/open-source-openstack");
 
 		} catch (Exception e) {
 			e.printStackTrace();
