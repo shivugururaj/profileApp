@@ -77,24 +77,24 @@ android:screenOrientation="portrait"
           
             <activity
             android:name=".Intel"
-            android:label="Tyler Technologies"
+            android:label="Intel"
             android:screenOrientation="portrait">
             
         </activity>
           <activity
-            android:name=".VersatransAndroid"
-            android:label="Versatrans Android App"
+            android:name=".OpenStackWiki"
+            android:label="Open Stack Wiki"
             android:screenOrientation="portrait">
         </activity>
         
           <activity
             android:name=".OpenStackSummits"
-            android:label="Versatrans IOS App"
+            android:label="Open Stack Summits"
             android:screenOrientation="portrait">
         </activity>
           <activity
             android:name="com.shivu.myprofile.Ongoing_Projects"
-            android:label="Ongoing Academic Projects" 
+            android:label="Ongoing Projects"
             android:screenOrientation="portrait">
         </activity>
           <activity
