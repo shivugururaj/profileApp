@@ -88,7 +88,7 @@ android:screenOrientation="portrait"
         </activity>
         
           <activity
-            android:name=".OpenStack_Summits"
+            android:name=".OpenStackSummits"
             android:label="Versatrans IOS App"
             android:screenOrientation="portrait">
         </activity>
@@ -136,7 +136,7 @@ android:screenOrientation="portrait"
         </activity>
         
           <activity
-            android:name="com.shivu.myprofile.Objective"
+            android:name=".MyObjective"
             android:label="Objective" 
             android:screenOrientation="portrait">
             

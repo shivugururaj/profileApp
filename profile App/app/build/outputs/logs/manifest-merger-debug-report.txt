@@ -135,14 +135,14 @@ ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/And
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:86:13-51
 	android:name
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:85:13-46
-activity#com.shivu.myprofile.OpenStack_Summits
+activity#com.shivu.myprofile.OpenStackSummits
 ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:90:11-94:20
 	android:screenOrientation
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:93:13-49
 	android:label
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:92:13-47
 	android:name
-		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:91:13-46
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:91:13-45
 activity#com.shivu.myprofile.Ongoing_Projects
 ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:95:11-99:20
 	android:screenOrientation
@@ -199,14 +199,14 @@ ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/And
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:133:13-40
 	android:name
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:132:13-59
-activity#com.shivu.myprofile.Objective
+activity#com.shivu.myprofile.MyObjective
 ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:138:11-143:20
 	android:screenOrientation
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:141:13-49
 	android:label
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:140:13-38
 	android:name
-		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:139:13-57
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:139:13-40
 activity#com.shivu.myprofile.StatementOfPurpose
 ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:145:10-150:20
 	android:screenOrientation

@@ -74,7 +74,7 @@
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.shivu.myprofile.OpenStack_Summits"
+            android:name="com.shivu.myprofile.OpenStackSummits"
             android:label="Versatrans IOS App"
             android:screenOrientation="portrait" >
         </activity>
@@ -114,7 +114,7 @@
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.shivu.myprofile.Objective"
+            android:name="com.shivu.myprofile.MyObjective"
             android:label="Objective"
             android:screenOrientation="portrait" >
         </activity>

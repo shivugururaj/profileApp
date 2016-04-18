@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class Objective extends Activity{
+public class MyObjective extends Activity{
 	TextView display;
 	
 	 protected void onCreate(Bundle savedInstanceState) {
