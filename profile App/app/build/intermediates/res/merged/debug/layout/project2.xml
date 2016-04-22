@@ -12,8 +12,9 @@ android:layout_width="fill_parent">
         android:layout_height="wrap_content"
         android:textSize="30dp"
         android:text="GenzeMobile- Automobile Android App
-\n \n •	Developed features for voice control, real time accident detection, navigation assist, auto reply to calls while driving
-\n \n • Find my Genze: Developed feature to find the vehicle previously parked.
+\n \n •	Designed and developed an automobile app with features to find where it was previously parked,
+voice control, music player, real time accident detection, navigation assist, auto reply to calls while
+driving.
         
         "/>
     </ScrollView>

@@ -172,7 +172,7 @@ ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/And
 	android:screenOrientation
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:116:13-49
 	android:label
-		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:115:13-53
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:115:13-40
 	android:name
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:114:13-45
 activity#com.shivu.myprofile.IntelOpenStack
@@ -180,7 +180,7 @@ ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/And
 	android:screenOrientation
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:121:13-49
 	android:label
-		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:120:13-47
+		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:120:13-45
 	android:name
 		ADDED from /Users/shivugururaj/Documents/profileApp/profile app/app/src/main/AndroidManifest.xml:119:13-43
 activity#com.shivu.myprofile.Portfolio

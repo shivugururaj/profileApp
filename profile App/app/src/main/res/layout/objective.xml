@@ -10,6 +10,6 @@ android:layout_width="fill_parent">
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="30dp"
-        android:text="To deliver excellence to organization by providing value added performance through application of my knowledge, skills and constant upgrade" />
+        android:text="To Keep learning and to deliver excellence to my organization by providing value added performance through application of my knowledge, skills and constant upgrade" />
 </ScrollView>
 </LinearLayout>

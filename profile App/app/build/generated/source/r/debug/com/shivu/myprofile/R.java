@@ -29,12 +29,12 @@ public final class R {
         public static final int first=0x7f020007;
         public static final int ic_launcher=0x7f020008;
         public static final int iit=0x7f020009;
-        public static final int launcher=0x7f02000a;
-        public static final int paper=0x7f02000b;
-        public static final int shivu=0x7f02000c;
-        public static final int tcs1=0x7f02000d;
-        public static final int tcs2=0x7f02000e;
-        public static final int tyler=0x7f02000f;
+        public static final int intelsplash=0x7f02000a;
+        public static final int launcher=0x7f02000b;
+        public static final int paper=0x7f02000c;
+        public static final int shivu=0x7f02000d;
+        public static final int tcs1=0x7f02000e;
+        public static final int tcs2=0x7f02000f;
         public static final int volenteer=0x7f020010;
     }
     public static final class id {

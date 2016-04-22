@@ -13,7 +13,7 @@ android:layout_width="fill_parent">
         android:text="Programming Skills 	: C++, Java, Android, HTML, JavaScript, SQL
 \n \n Web Technologies	: JSP, jQuery, JSON, RESTful API, Micro Web Services, Bootstrap, Maven
 \n \n Frameworks : Spring MVC, Hibernate, Struts, Codeigniter
-\n \n Tools : Eclipse/Spring Tool Suite, iReport, Android Studio, SOAP UI, Data Studio, Find Bugs, SVN, CVS, Git, JIRA
+\n \n Tools : Eclipse/Spring Tool Suite, iReport, Android Studio, SOAP UI, Data Studio, Find Bugs, SVN, CVS, Git, JIRA, Jenkins
 "/>
     </ScrollView>
 </LinearLayout>

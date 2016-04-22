@@ -8,16 +8,16 @@
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/objective.xml"
     },
     {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/utsaha.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/utsaha.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/tcs2010.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/tcs2010.xml"
     },
     {
         "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/aboutcopart.xml",
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/aboutcopart.xml"
     },
     {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/tcs2010.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/tcs2010.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/utsaha.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/utsaha.xml"
     },
     {
         "merged": "/Users/shivugururaj/Documents/profileApp/profile app/app/build/intermediates/res/merged/debug/layout/text.xml",
@@ -64,20 +64,20 @@
         "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/project4.xml"
     },
     {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/springfest.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/springfest.xml"
-    },
-    {
         "merged": "/Users/shivugururaj/Documents/profileApp/profile app/app/build/intermediates/res/merged/debug/layout/contact.xml",
         "source": "/Users/shivugururaj/Documents/profileApp/profile app/app/src/main/res/layout/contact.xml"
     },
     {
-        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/asu.xml",
-        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/asu.xml"
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/springfest.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/springfest.xml"
     },
     {
         "merged": "/Users/shivugururaj/Documents/profileApp/profile app/app/build/intermediates/res/merged/debug/layout/sciencetalent2004.xml",
         "source": "/Users/shivugururaj/Documents/profileApp/profile app/app/src/main/res/layout/sciencetalent2004.xml"
+    },
+    {
+        "merged": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/build/intermediates/res/merged/debug/layout/asu.xml",
+        "source": "/Users/shivugururaj/StudioProjects/MyProfile 21/app/src/main/res/layout/asu.xml"
     },
     {
         "merged": "/Users/shivugururaj/Documents/profileApp/profile app/app/build/intermediates/res/merged/debug/layout/email.xml",

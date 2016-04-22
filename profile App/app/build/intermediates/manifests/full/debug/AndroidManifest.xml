@@ -95,12 +95,12 @@
         </activity>
         <activity
             android:name="com.shivu.myprofile.IntelCloudForAll"
-            android:label="About Tyler Technologies"
+            android:label="About Intel"
             android:screenOrientation="portrait" >
         </activity>
         <activity
             android:name="com.shivu.myprofile.IntelOpenStack"
-            android:label="Tyler Technologies"
+            android:label="Intel Open Stack"
             android:screenOrientation="portrait" >
         </activity>
         <activity
